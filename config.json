@@ -1,0 +1,7 @@
+
+{
+    "token": "<token here>", 
+    "prefix": "g! <can change the prefix>", 
+    "everyoneMention": false,
+    "hostedBy": true
+  }
